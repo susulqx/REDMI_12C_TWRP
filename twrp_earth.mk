@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/earth/device.mk)
 
 PRODUCT_DEVICE := earth
-PRODUCT_NAME := omni_earth
+PRODUCT_NAME := twrp_earth
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := 22120RN86C
 PRODUCT_MANUFACTURER := xiaomi
